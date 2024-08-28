@@ -1,0 +1,2 @@
+DB_CONNECTION_STRING=mysql://username:password@localhost/task_manager
+JWT_SECRET=your_jwt_secret
